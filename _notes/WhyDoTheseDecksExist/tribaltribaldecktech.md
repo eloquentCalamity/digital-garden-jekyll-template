@@ -6,7 +6,7 @@ title: Why Does This Deck Exist - Tribal Tribal
 
 _My second least favorite shape to see in the snow. The first being a moose._
 
-Tribal decks are fun, so why not play all of the tribes at once?? I came up with this idea late at night right near the start of my journey making decks at all, so it's a lot jankier than many of my other decks. I'm still happy with it anyways - happy enough, at least.  
+Tribal decks are fun, so why not play all of the tribes at once?? I came up with this idea late at night right near the start of my journey making decks at all, so it's a lot jankier than many of my other decks. I've gone through a couple of iterations, mainly trying to find newer and more efficient tribal anthem effects. I'm still happy with it anyways - happy enough, at least.  
 
 Let's start out with our commander: [Moritte of the Frost](https://scryfall.com/card/khm/223/moritte-of-the-frost). She's generally a pretty unnoteworthy Kaldheim uncommon - 6 mana for a changeling that enters the battlefield as any other permanent you control. For our purposes, we only care about her entering as a creature, in which she gets two +1/+1 counters and keeps her changeling ability. The plan before she enters is pretty simple: drop some anthem effects and a bit of protection onto the field, then once she enters let her wallop with commander damage.  
 

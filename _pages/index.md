@@ -5,13 +5,23 @@ id: home
 permalink: /
 ---
 
-# There’s rosemary, that’s for remembrance. Pray you, love, remember. (4.5.199-200)
+## There’s rosemary, that’s for remembrance. Pray you, love, remember. (4.5.199-200)
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
-<strong>Recently updated notes</strong>
+If you're interested in my various silly Magic the Gathering decks, go [here](https://rosemarysprigs.netlify.app/whydothesedecksexisthub) to ask yourself "Why do these decks exist?"    
+
+If you want to hear about the movies and TV shows I've been watching and thinking about, head over [to this corner]().    
+
+If you're in the market for my comments on books, you can find those [right over here](). I have some specific hubs for entire authors, such as my boy [William Shakespeare](). More to come on individual author hubs.    
+
+Theater is a passion of mine as well - I act and I love to watch shows as well, so I tend to review shows that I go to - more about that [over this way]().  
+
+Being politically and intellectually active is another thing I value, so I have some writeups about things I've been reflecting on [in this section]().  
+
+I'm sure more will come as I think about it and find more things I think are worth writing about. I'm glad you're here.  
+
+<strong>Newest Sprigs</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
@@ -21,6 +31,8 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
     </li>
   {% endfor %}
 </ul>
+
+_This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)._
 
 <style>
   .wrapper {
