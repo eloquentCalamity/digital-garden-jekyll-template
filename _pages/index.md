@@ -17,7 +17,7 @@ If you're in the market for my comments on books, you can find those [right over
 
 Theater is a passion of mine as well - I act and I love to watch shows as well, so I tend to review shows that I go to - more about that [over this way]().  
 
-Being politically and intellectually active is another thing I value, so I have some writeups about things I've been reflecting on [in this section]().  
+Being politically and intellectually active is another thing I value, so I have some writeups about things I've been reflecting on [in this section](https://rosemarysprigs.netlify.app/politicalthoughtshub).  
 
 I'm sure more will come as I think about it and find more things I think are worth writing about. I'm glad you're here.  
 
