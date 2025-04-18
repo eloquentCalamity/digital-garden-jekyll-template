@@ -3,7 +3,7 @@ layout: null
 sitemap: false
 ---
 User-agent: *
-Sitemap: {{ "sitemap.xml" | absolute_url }}
+Sitemap: {{ "https://rosemarysprigs.netlify.app/sitemap.xml" | absolute_url }}
 
 User-agent: CCBot
 Disallow: /
