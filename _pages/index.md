@@ -38,4 +38,7 @@ _This digital garden template is free, open-source, and [available on GitHub her
   .wrapper {
     max-width: 46em;
   }
+  body{
+    background-color: #cab3f5
+  }
 </style>
