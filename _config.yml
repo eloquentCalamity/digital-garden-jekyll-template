@@ -43,5 +43,5 @@ defaults:
       layout: "note"
 
 url: "https://rosemarysprigs.netlify.app"
-plugins:
+gems:
   - jekyll-sitemap
