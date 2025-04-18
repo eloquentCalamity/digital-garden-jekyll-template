@@ -9,3 +9,4 @@ gem "jekyll-last-modified-at", git: "https://github.com/maximevaillancourt/jekyl
 gem "webrick", "~> 1.9"
 gem "nokogiri"
 gem 'jekyll-sitemap', '~> 1.4'
+gem 'sitemap_generator', '~> 6.3'
