@@ -5,7 +5,8 @@ id: home
 permalink: /
 ---
 
-## There’s rosemary, that’s for remembrance. Pray you, love, remember. (4.5.199-200)
+### There’s rosemary, that’s for remembrance.  
+### Pray you, love, remember. (4.5.199-200)
 
 
 
@@ -21,18 +22,8 @@ Being politically and intellectually active is another thing I value, so I have 
 
 I'm sure more will come as I think about it and find more things I think are worth writing about. I'm glad you're here.  
 
-<strong>Newest Sprigs</strong>
 
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-_This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)._
+_This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). Thanks to Maxime Vaillancourt for creating the template for this site._
 
 <style>
   .wrapper {
