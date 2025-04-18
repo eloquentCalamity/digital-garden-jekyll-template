@@ -6,7 +6,7 @@ permalink: /
 ---
 
 ### There’s rosemary, that’s for remembrance.  
-### Pray you, love, remember. (4.5.199-200)
+### Pray you, love, remember.
 
 
 
@@ -16,7 +16,7 @@ If you want to hear about the movies and TV shows I've been watching and thinkin
 
 If you're in the market for my comments on books, you can find those [right over here](). I have some specific hubs for entire authors, such as my boy [William Shakespeare](). More to come on individual author hubs.    
 
-Theater is a passion of mine as well - I act and I love to watch shows as well, so I tend to review shows that I go to - more about that [over this way]().  
+Theater is a passion of mine as well - I both act and attend shows, so I like to talk about them - more about that [over this way]().  
 
 Being politically and intellectually active is another thing I value, so I have some writeups about things I've been reflecting on [in this section](https://rosemarysprigs.netlify.app/politicalthoughtshub).  
 
