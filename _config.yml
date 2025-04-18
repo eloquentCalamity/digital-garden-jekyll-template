@@ -41,3 +41,7 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+url: "https://rosemarysprigs.netlify.app"
+plugins:
+  - jekyll-sitemap
