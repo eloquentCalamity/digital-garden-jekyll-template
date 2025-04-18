@@ -1,5 +1,5 @@
 ---
-title: Comic Review: The Last Ronin
+title: Comic Review - The Last Ronin
 ---
 
 ###### Stats
