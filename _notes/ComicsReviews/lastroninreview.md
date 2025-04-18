@@ -2,15 +2,15 @@
 title: Comic Review - The Last Ronin
 ---
 
-###### Stats
+#### *Stats*
 
-Author(s): Kevin Eastman, Peter Laird, Tom Waltz
-Artist(s): Esau Escorza, Isaac Escorza, Ben Bishop, Kevin Eastman
-Letterer(s): Shawn Lee
-Colorist(s): Luis Antonio Delgado
-Editor(S): Bobby Curnow, R. G> Llarena
-Issues: 5
-Rating: 8/10
+Author(s): Kevin Eastman, Peter Laird, Tom Waltz  
+Artist(s): Esau Escorza, Isaac Escorza, Ben Bishop, Kevin Eastman  
+Letterer(s): Shawn Lee  
+Colorist(s): Luis Antonio Delgado  
+Editor(S): Bobby Curnow, R. G> Llarena  
+Issues: 5  
+Rating: 8/10  
 
 As always, spoilers ahead.  
 
