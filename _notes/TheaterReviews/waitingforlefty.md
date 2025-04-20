@@ -7,8 +7,7 @@ title: Theater Review - Waiting For Lefty
 Hosted by: University Theatre at The University of Oklahoma  
 Written by: Clifford Odets  
 Directed by: Seth Gordon  
-Starring:  
-Design by:  
+Starring:    
 Rating: 9/10
 
 As always, spoilers below.  
