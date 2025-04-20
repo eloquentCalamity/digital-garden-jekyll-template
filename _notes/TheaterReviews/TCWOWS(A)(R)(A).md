@@ -1,5 +1,5 @@
 ---
-title: Theater Review: The Complete Works of William Shakespeare (abridged) (revised) (again)
+title: Theater Review - The Complete Works of William Shakespeare (abridged) (revised) (again)
 ---
 
 #### **Stats**
