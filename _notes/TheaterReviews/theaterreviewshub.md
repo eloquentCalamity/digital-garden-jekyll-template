@@ -6,4 +6,4 @@ I love theater. It's been part of my life for a very long time, starting when my
 
 [Waiting for Lefty](https://rosemarysprigs.netlify.app/waitingforlefty) - 9/10, a strong showing from OU Theater of a controversial play about an equally contentious topic.
 
-[The Complete Works of William Shakespeare (abridged) (revised) (again)](https://rosemarysprigs.netlify.app/TCWOWS(A)(R)(A)) - 8/10, a hilarious show that hits more often than it misses, with a vibrant cast and strong direction.
+[The Complete Works of William Shakespeare (abridged) (revised) (again)](https://rosemarysprigs.netlify.app/tcwows-a-r-a) - 8/10, a hilarious show that hits more often than it misses, with a vibrant cast and strong direction.
