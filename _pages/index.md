@@ -14,7 +14,7 @@ If you're interested in my various silly Magic the Gathering decks, go [here](ht
 
 If you want to hear about the movies and TV shows I've been watching and thinking about, head over [to this corner]().    
 
-If you're in the market for my comments on books, you can find those [right over here](), and you can find a similar hub for comics [over in this joint](https://rosemarysprigs.netlify.app/comicsreviewshub). I have some specific hubs for entire authors, such as my boy [William Shakespeare](). More to come on individual author hubs.    
+If you're in the market for my comments on books, you can find those [right over here](https://rosemarysprigs.netlify.app/bookreviewshub), and you can find a similar hub for comics [over in this joint](https://rosemarysprigs.netlify.app/comicsreviewshub). I have some specific hubs for entire authors, such as my boy [William Shakespeare](). More to come on individual author hubs.    
 
 Theater is a passion of mine as well - I both act and attend shows, so I like to talk about them - more about that [over this way](https://rosemarysprigs.netlify.app/theaterreviewshub).  
 
