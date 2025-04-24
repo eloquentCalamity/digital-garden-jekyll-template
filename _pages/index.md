@@ -12,7 +12,7 @@ permalink: /
 
 If you're interested in my various silly Magic the Gathering decks, go [here](https://rosemarysprigs.netlify.app/whydothesedecksexisthub) to ask yourself "Why do these decks exist?"    
 
-If you want to hear about the movies and TV shows I've been watching and thinking about, head over [to this corner]().    
+If you want to hear about the movies and TV shows I've been watching and thinking about, head over [to this corner](https://rosemarysprigs.netlify.app/movietvhub).    
 
 If you're in the market for my comments on books, you can find those [right over here](https://rosemarysprigs.netlify.app/bookreviewshub), and you can find a similar hub for comics [over in this joint](https://rosemarysprigs.netlify.app/comicsreviewshub). I have some specific hubs for entire authors, such as my boy [William Shakespeare](). More to come on individual author hubs.    
 
