@@ -7,3 +7,5 @@ I've had a pretty intense love of comics ever since I was a kid. One of my defin
 [The Last Ronin](https://rosemarysprigs.netlify.app/lastroninreview) - 8/10, a strong story I really enjoyed despite being a relative outsider to the TMNT canon.  
 
 [Tokyo Ghoul](https://rosemarysprigs.netlify.app/tokyoghoul) - 8/10, a really cool manga with great worldbuilding and an excellent sense of depth.
+
+[Homestuck](https://rosemarysprigs.netlify.app/homestuck) - ???/???, how does one classify Homestuck in a sentence or two? Just check out the page...

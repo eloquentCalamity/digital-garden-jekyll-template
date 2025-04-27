@@ -2,13 +2,15 @@
 title: Comic Review - Tokyo Ghoul
 ---
 
+#### Stats  
+
 Author(s): Sui Ishida    
 Artist(s): Sui Ishida  
 Published in: Weekly Young Jump, 2011 - 2014    
 Chapters: 143  
-Rating: 8/10  
+Rating: 8/10    
 
-As always, spoilers ahead.
+As always, spoilers ahead.  
 
 I'm not usually much of a manga reader, so this one is kind of out of my wheelhouse. I only really picked it up because Dead by Daylight, one of my favorite games, recently adapted the main character Ken Kaneki into the game as a killer. The premise has also intrigued me enough in the past to where I vaguely remember reading a few chapters in before quitting. So, I decided to give it a go, and I'm very glad I did.  
 
