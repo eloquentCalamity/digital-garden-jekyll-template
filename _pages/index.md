@@ -16,7 +16,9 @@ If you want to hear about the movies and TV shows I've been watching and thinkin
 
 If you're in the market for my comments on books, you can find those [right over here](https://rosemarysprigs.netlify.app/bookreviewshub), and you can find a similar hub for comics [over in this joint](https://rosemarysprigs.netlify.app/comicsreviewshub). I have some specific hubs for entire authors, such as my boy [William Shakespeare](). More to come on individual author hubs.    
 
-Theater is a passion of mine as well - I both act and attend shows, so I like to talk about them - more about that [over this way](https://rosemarysprigs.netlify.app/theaterreviewshub).  
+Theater is a passion of mine as well - I both act and attend shows, so I like to talk about them - more about that [over this way](https://rosemarysprigs.netlify.app/theaterreviewshub). 
+
+I've added some stuff about music to the site! It's less specific songs/albums and more end-of-certain-time-periods roundups. More details about that at [this location](https://rosemarysprigs.netlify.app/musicroundup). 
 
 Being politically and intellectually active is another thing I value, so I have some writeups about things I've been reflecting on [in this section](https://rosemarysprigs.netlify.app/politicalthoughtshub).  
 
