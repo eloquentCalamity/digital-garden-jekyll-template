@@ -5,10 +5,7 @@ id: home
 permalink: /
 ---
 
-#### There’s rosemary, that’s for remembrance.
-#### Pray you, love, remember.
-
-
+#### There’s rosemary, that’s for remembrance. Pray you, love, remember.  
 
 If you're interested in my various silly Magic the Gathering decks, go [here](https://rosemarysprigs.netlify.app/whydothesedecksexisthub) to ask yourself "Why do these decks exist?"    
 
