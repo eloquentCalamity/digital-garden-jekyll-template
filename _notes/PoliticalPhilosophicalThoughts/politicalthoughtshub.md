@@ -12,4 +12,8 @@ This is a gathering place for my thoughts and ideas regarding politics, philosop
 
 [My Favorite Stanza of Poetry Ever](https://rosemarysprigs.netlify.app/stanza) - A tackling of my favorite stanza ever and what it says both about poetry and the attempt to be human.
 
-[Identity, Perception, and Dehumanization](https://rosemarysprigs.netlify.app/identity) - A very personal essay about what it means for others to attempt to strip away your identity and how to respond to that.
+[Identity, Perception, and Dehumanization](https://rosemarysprigs.netlify.app/identity) - A very personal essay about what it means for others to attempt to strip away your identity and how to respond to that.  
+
+[Instability & Helplessness](https://rosemarysprigs.netlify.app/instability) - A ramble-essay about social media, self-image, and feeling like your life is falling apart, even when it isn't.  
+
+[Law and the Internet](https://rosemarysprigs.netlify.app/lawinprogress) - A work-in-progress essay about the way the law does not know how to deal with the internet.  
